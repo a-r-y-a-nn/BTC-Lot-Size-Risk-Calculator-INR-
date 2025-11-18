@@ -16,7 +16,7 @@ root.render(
   //React.Strict_Mode isse kya, hoga Error pata chale ga,
   //hmane hello world print kar diya 
   <React.StrictMode> 
-    <App/>
+    <App />
     Hello World      
   </React.StrictMode>
 );
